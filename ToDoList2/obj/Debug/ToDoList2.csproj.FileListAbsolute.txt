@@ -1,0 +1,13 @@
+C:\Users\aleif\source\repos\ToDoList2\ToDoList2\bin\Debug\ToDoList2.exe.config
+C:\Users\aleif\source\repos\ToDoList2\ToDoList2\bin\Debug\ToDoList2.exe
+C:\Users\aleif\source\repos\ToDoList2\ToDoList2\bin\Debug\ToDoList2.pdb
+C:\Users\aleif\source\repos\ToDoList2\ToDoList2\obj\Debug\ToDoList2.csproj.AssemblyReference.cache
+C:\Users\aleif\source\repos\ToDoList2\ToDoList2\obj\Debug\ToDoList2.Form1.resources
+C:\Users\aleif\source\repos\ToDoList2\ToDoList2\obj\Debug\ToDoList2.Properties.Resources.resources
+C:\Users\aleif\source\repos\ToDoList2\ToDoList2\obj\Debug\ToDoList2.csproj.GenerateResource.cache
+C:\Users\aleif\source\repos\ToDoList2\ToDoList2\obj\Debug\ToDoList2.csproj.CoreCompileInputs.cache
+C:\Users\aleif\source\repos\ToDoList2\ToDoList2\obj\Debug\ToDoList2.exe
+C:\Users\aleif\source\repos\ToDoList2\ToDoList2\obj\Debug\ToDoList2.pdb
+C:\Users\aleif\onedrive\desktop\repos\ToDoListWinForm\ToDoList2\obj\Debug\ToDoList2.csproj.AssemblyReference.cache
+C:\Users\aleif\onedrive\desktop\repos\ToDoListWinForm\ToDoList2\obj\Debug\ToDoList2.exe
+C:\Users\aleif\onedrive\desktop\repos\ToDoListWinForm\ToDoList2\obj\Debug\ToDoList2.pdb
